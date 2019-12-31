@@ -1,1 +1,4 @@
 /data
+/generated
+/models
+.ipynb_checkpoints/
