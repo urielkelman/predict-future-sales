@@ -1,4 +1,6 @@
 /data
 /generated
 /models
+/model_parameters
+/submissions
 .ipynb_checkpoints/
