@@ -3,4 +3,5 @@
 /models
 /model_parameters
 /submissions
+/encodings
 .ipynb_checkpoints/
