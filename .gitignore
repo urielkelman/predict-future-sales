@@ -1,7 +1,10 @@
 /data
 /generated
 /models
-/model_parameters
+/new-models
 /submissions
-/encodings
+/__pycache__
+/catboost_info
+/cleaned_data
+/rubbish
 .ipynb_checkpoints/
